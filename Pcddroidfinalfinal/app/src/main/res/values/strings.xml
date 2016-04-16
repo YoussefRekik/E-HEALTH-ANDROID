@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pcddroidfinalfinal</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">S\'identifier</string>
+    <string name="error_invalid_email">Cette adresse e-mail est invalide</string>
+    <string name="error_invalid_password">Ce mot de passe est trés court</string>
+    <string name="error_incorrect_password">ce mot de passe est incorrecte</string>
+    <string name="error_field_required">ce champs est requis</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_agentmedical_list">Agents_Medicaux</string>
+    <string name="title_agentmedical_detail">Agent_Medical Detail</string>
+    <string name="title_activity_agentlist">Agentlist</string>
+</resources>
