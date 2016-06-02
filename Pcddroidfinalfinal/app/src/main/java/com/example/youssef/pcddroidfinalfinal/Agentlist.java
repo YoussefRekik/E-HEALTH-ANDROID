@@ -38,10 +38,8 @@ public class Agentlist extends AppCompatActivity {
                 adresse=cursor.getString(2);
                 DataProvider dataProvider=new DataProvider(name,prenom,adresse);
                 listDataAdapter.add(dataProvider);
-
             }while (cursor.moveToNext());
         }
-
     }
 
 }
